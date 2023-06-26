@@ -1,1 +1,2 @@
-# exercicios-trybe-35
+execrcisioss
+o que eu fiz na trybe melhro escola do mundo
